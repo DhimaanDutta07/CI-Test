@@ -1,3 +1,5 @@
+mlflow
+dagshub
 scikit-learn
-numpy
 pandas
+numpy
