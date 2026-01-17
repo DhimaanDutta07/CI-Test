@@ -1,5 +1,7 @@
-mlflow
-dagshub
 scikit-learn
 pandas
 numpy
+mlflow
+dagshub
+pytest
+flake8
